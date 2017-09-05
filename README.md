@@ -8,4 +8,4 @@ to use this please follow below instruction.
 2. use "npm install" to install all the dependencies
 3. use npm start to run the project.
 
-please dont forget to comment if you have any technicqal issues. i looking forward to help you
+please dont forget to comment if you have any technicqal issues. i am looking forward to help you
