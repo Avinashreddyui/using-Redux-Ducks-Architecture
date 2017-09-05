@@ -1,0 +1,8 @@
+{"users":
+[
+  {"name":"tomato","price":10},
+  {"name":"potato","price":20},
+  {"name":"lettuce","price":15},
+  {"name":"chicken","price":25},
+  {"name":"beef","price":20}
+]}
